@@ -38,3 +38,4 @@ A imagem abaixo exemplifica o ecossistema digital desenvolvido para o monitorame
 *   **Orientador:** Prof. José Oniram
 *   **Desenvolvimento:** Capítulo Estudantil IEEE CSS UnB
 *   **Laboratório:** Laboratório de Controle de Processos Industriais (LCPI) – SG-11 / UnB
+
